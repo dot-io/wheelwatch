@@ -1,0 +1,15 @@
+.custom-link {
+	color: cyan;	
+	text-decoration: none;
+	}
+
+.custom-link:hover {
+	color: lightsteelblue;
+	text-decoration: underline;
+}
+
+.navbar-nav .nav-link:hover {
+	text-decoration: underline;
+	text-decoration-style: dashed;
+}
+
