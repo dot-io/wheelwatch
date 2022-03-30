@@ -13,3 +13,20 @@
 	text-decoration-style: dashed;
 }
 
+h2 {
+	text-decoration: underline;
+	text-decoration-style: dotted;
+}
+
+h2.even-header {
+	text-align: end;
+}
+
+#end-paragraph {
+	background-color: black;
+	color: gray;
+	size: 6px;
+
+
+}
+
