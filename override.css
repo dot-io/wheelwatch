@@ -23,7 +23,7 @@ h2 {
 }
 
 #end-paragraph {
-	background-color: black;
+	background-color: #111111;
 	color: gray;
 	size: 6px;
 
@@ -32,5 +32,9 @@ h2 {
 h3 {
 	text-align: center;
 	padding: 5px;
+}
+
+.small-text {
+	font-size: 12px;
 }
 
