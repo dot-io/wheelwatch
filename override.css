@@ -18,7 +18,7 @@ h2 {
 	text-decoration-style: dotted;
 }
 
-h2.even-header {
+.even-header {
 	text-align: end;
 }
 
@@ -28,5 +28,9 @@ h2.even-header {
 	size: 6px;
 
 
+}
+h3 {
+	text-align: center;
+	padding: 5px;
 }
 
